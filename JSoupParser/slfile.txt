@@ -1,0 +1,6 @@
+MSFT
+GOOG
+PG
+TSLA
+AA
+NDAQ
