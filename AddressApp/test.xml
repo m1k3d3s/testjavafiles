@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Lydia</firstName>
+        <lastName>Kunz</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Anna</firstName>
+        <lastName>Best</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Stefan</firstName>
+        <lastName>Meier</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Martin</firstName>
+        <lastName>Mueller</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Mike</firstName>
+        <lastName>Des</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+</persons>
